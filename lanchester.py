@@ -1,10 +1,6 @@
 import numpy as np
 import matplotlib.pyplot as plt
 #Thomas Martinson
-#818755425
-#CS558
-#Homework 2
-#Madachy
 
 #*This program simulates Lanchester's Square Law for aimed fire. It assumes two opposing forces are firing
 #continuously at each other. The attrition of each side is proportional to the opposing side troop
